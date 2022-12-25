@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Roblox Banner Remover",
+  "version": "1.0",
+  "description": "Remove the Roblox Desktop banner on the Roblox website",
+  "homepage_url": "https://github.com/brownfieldd00/Roblox-Desktop-App-Prompt-Remover",
+  "short_name": "Roblox B. Remover",
+  "author": "brownfieldd00@gmail.com",
+  "content_scripts": [
+    {
+      "js": ["scripts/main.js"],
+      "matches": [
+        "https://www.roblox.com/*",
+        "https://web.roblox.com/*"
+      ]
+    }
+  ]
+}
