@@ -4,7 +4,7 @@ I was tired of closing the banner manually so I decided to create an extension t
 
 # How to install?
 1. Download this repository as a zip file. (Code tab > Download ZIP)
-2. Unpack the zip file to any location (outside Download folder to avoid deleting it by accident)
+2. Unpack the zip file to a folder of your choosing (outside Download folder to avoid deleting it by accident)
 3. Head to __chrome://extensions__
 4. Enable developer mode
 5. Click __Load unpacked__
