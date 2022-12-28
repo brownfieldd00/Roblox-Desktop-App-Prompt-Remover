@@ -1,2 +1,1 @@
-let x = document.getElementById('desktop-app-banner')
-if (x) { x.remove() }
+(document.querySelector('div[id="desktop-app-banner"]') || {'remove': function(){}}).remove();
