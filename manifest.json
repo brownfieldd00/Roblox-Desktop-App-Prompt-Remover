@@ -5,7 +5,7 @@
   "description": "Remove the Roblox Desktop banner on the Roblox website",
   "homepage_url": "https://github.com/brownfieldd00/Roblox-Desktop-App-Prompt-Remover",
   "short_name": "Roblox B. Remover",
-  "author": "brownfieldd00@gmail.com",
+  "author": "https://github.com/brownfieldd00",
   "content_scripts": [
     {
       "js": ["scripts/main.js"],
